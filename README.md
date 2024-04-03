@@ -1,4 +1,4 @@
-# Data Analysis using python
+# Data Analysis using Python Pandas
 
 ## Short Description
 This project includes a Python script that demonstrates various data analysis tasks using Pandas, including creating new columns with default and calculated values, concatenating and appending DataFrames, renaming and reordering columns, and performing groupby, case-when, and filtering operations.
