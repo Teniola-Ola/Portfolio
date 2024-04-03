@@ -1,8 +1,7 @@
-# Project Title
-Python Data Analysis
+# Data Analysis using python
 
 ## Short Description
-This project includes a Python script (data_analysis.py) that demonstrates various data analysis tasks using Pandas, including creating new columns with default and calculated values, concatenating and appending DataFrames, renaming and reordering columns, and performing groupby, case-when, and filtering operations.
+This project includes a Python script that demonstrates various data analysis tasks using Pandas, including creating new columns with default and calculated values, concatenating and appending DataFrames, renaming and reordering columns, and performing groupby, case-when, and filtering operations.
 
 ## Getting Started
 ### Prerequisites
@@ -20,11 +19,11 @@ This project includes a Python script (data_analysis.py) that demonstrates vario
 
    
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Professor Omar Al-Trad 
+- Contact: Omar.Al-Trad@dcfaculty.mycampus.ca
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgement
-- This script is based on various tutorials and examples from online resources and the Pandas documentation.
+- This script is based on Lab_4_week7 tutorials and examples Data-1202 on DC Connect.
