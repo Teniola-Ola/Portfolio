@@ -20,7 +20,6 @@ This project includes a Python script that demonstrates various data analysis ta
    
 ## Author
 - Professor Omar Al-Trad 
-- Contact: Omar.Al-Trad@dcfaculty.mycampus.ca
 
 ## License
 This project is for educational use only. Any use or distribution requires explicit permission, and proper credit must be given to the orignial source.
