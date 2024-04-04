@@ -23,7 +23,7 @@ This project includes a Python script that demonstrates various data analysis ta
 - Contact: Omar.Al-Trad@dcfaculty.mycampus.ca
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is for educational use only. Any use or distribution requires explicit permission, and proper credit must be given to the orignial source.
 
 ## Acknowledgement
 - This script is based on Lab_4_week7 tutorials and examples from Data-1202 on DC Connect.
